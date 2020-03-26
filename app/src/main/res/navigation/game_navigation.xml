@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/game_navigation"
+    app:startDestination="@id/gamesListFragment">
+
+    <fragment
+        android:id="@+id/gamesListFragment"
+        android:name="com.example.scorekeeper.views.GamesListFragment"
+        android:label="GamesListFragment" >
+        <action
+            android:id="@+id/action_gamesListFragment_to_gameDetailsFragment"
+            app:destination="@id/gameDetailsFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim" />
+    </fragment>
+    <fragment
+        android:id="@+id/gameDetailsFragment"
+        android:name="com.example.scorekeeper.views.GameDetailsFragment"
+        android:label="GameDetailsFragment" >
+        <action
+            android:id="@+id/action_gameDetailsFragment_to_gamesListFragment"
+            app:destination="@id/gamesListFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim" />
+        <argument
+            android:name="gameUuid"
+            android:defaultValue="0"
+            app:argType="integer" />
+    </fragment>
+</navigation>
