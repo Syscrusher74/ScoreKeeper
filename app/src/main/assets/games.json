@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Anteater",
+    "manufacturer": "Tago Electronics",
+    "year": "1982",
+    "score": "",
+    "description": "You play an anteater that elongates his sticky tongue through maze-like anthills eating ants, other bugs and insects.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00002793m.jpg"
+  },
+  {
+    "title": "Carnival",
+    "manufacturer": "Sega/Gremlin",
+    "year": "1980",
+    "score": "",
+    "description": "You control a small gun that you can move from left to right shooting targets that are on a conveyor belt. The yellow ducks however can fly off of the bottom conveyor and head toward your position. If you don't shoot them quickly, the duck will eat some of your bullets. Clear all the targets (including the pinwheel pipes) to move on to the next level. Run out of bullets and the game is over.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000044m.jpg"
+  },
+  {
+    "title": "Dig Dug",
+    "manufacturer": "Atari",
+    "year": "1982",
+    "score": "",
+    "description": "You are armed with an air pump and the means to dig through dirt. Your objective is to eliminate the Pookas and the Fygars. The Fygars are more dangerous since they breathe fire. You can line up some enemies in a row and drop a boulder on them for big points. Drop two boulders and a vegetable appears in the middle of the screen, grab it for mega points. Defeat all the enemies to advance to the next round. The game is made by Atari and is licensed by Namco.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000070m.jpg"
+  },
+  {
+    "title": "Donkey Kong",
+    "manufacturer": "Nintendo",
+    "year": "1981",
+    "score": "",
+    "description": "Guide Jumpman to the top of the level. Jump over barrels and fireballs and work your way to save Pauline from the clutches of the ape Donkey Kong.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000009m.jpg"
+  },
+  {
+    "title": "Donkey Kong Jr.",
+    "manufacturer": "Nintendo",
+    "year": "1982",
+    "score": "",
+    "description": "Donkey Kong has been captured by Mario! Guide Donkey Kong Jr. through various levels collecting keys along the way, then use the keys you've collected to push them into the locks to free your dad.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000073m.jpg"
+  },
+  {
+    "title": "Donkey Kong 3",
+    "manufacturer": "Nintendo",
+    "year": "1983",
+    "score": "",
+    "description": "Donkey Kong has invaded a local greenhouse! It is up to you and your trusty bug spray to defend your plants from waves of bugs, worms, and of course, Donkey Kong himself. Use your bug spray to knock Kong up the vines he's hanging on to. Occasionally a super bug spray will become available. Use it to take out any pests in your path.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000594m.jpg"
+  },
+  {
+    "title": "Frogger",
+    "manufacturer": "Sega/Gremlin",
+    "year": "1981",
+    "score": "",
+    "description": "Guide your frog across a busy highway avoiding cars and trucks, then hop on logs and turtles as you cross a river. Watch out for snakes and alligators. Most importantly, watch your step! Guild your frog into each of the five homes at the top of the screen before time runs out. After filling up all five homes, the game resets with increased difficulty.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000088m.jpg"
+  },
+  {
+    "title": "Galaxian",
+    "manufacturer": "Namco",
+    "year": "1979",
+    "score": "",
+    "description": "Swarm after swarm of alien armies attack the player's ship that moves left and right at the bottom of the wraparound screen. The Galaxip can only have one shot on screen at a time. The player defeats one swarm, only to have it replaced by another more aggressive and challenging swarm in the next stage. A plain and repetitive starfield scrolls in the background.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000089m.jpg"
+  },
+  {
+    "title": "Jungle King",
+    "manufacturer": "Taito",
+    "year": "1982",
+    "score": "",
+    "description": "The player controls a Tarzan-like jungle man who must swing across vines in the forest, swim through a crocodile-infested river, jump and duck over rocks while climbing a hill and rescue his woman from a pair of barbaric cannibals.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00001278m.jpg"
+  },
+  {
+    "title": "Kangaroo",
+    "manufacturer": "Atari",
+    "year": "1982",
+    "score": "",
+    "description": "Your child has been abducted by monkeys! Strap on your boxing gloves and show those apes who's boss! Dodge rotten apples the monkeys may throw your way. Jump over chasms, climb ladders, even punch a tower of monkeys out of the way to reach your child.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000116m.jpg"
+  },
+  {
+    "title": "Lady Bug",
+    "manufacturer": "Universal",
+    "year": "1981",
+    "score": "",
+    "description": "Guide your lady bug in a maze filled with bits of food similar to Pac-Man eating dots. There are various globes along the way which change color in a set pattern. Collecting the globes in the right color is the key to success. Collect the heart globes when they are blue to advance the multiplier, collect the globes with the letters E-X-T-R-A when they are yellow to light up those letters. Light up all five and you win an extra life. Collect the globes with the letters S-P-E-C-I-A-L when they are red to light up those letters. Light up all seven for a free game. Avoid the skull globes!",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000578m.jpg"
+  },
+  {
+    "title": "Mario Bros.",
+    "manufacturer": "Nintendo",
+    "year": "1983",
+    "score": "",
+    "description": "Mario and Luigi are sent to knock over various enemies. They must knock the floor underneath to tip over the enemy, then knock them off the platform before they right themselves. Occasionally coins will fall for the plumbers to collect. A POW block is also used to tip all the enemies on the floor.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000137m.jpg"
+  },
+  {
+    "title": "Millipede",
+    "manufacturer": "Atari",
+    "year": "1982",
+    "score": "",
+    "description": "The sequel to Centipede. Game play is very similar to the original with more types of enemies to encounter. There is also a DDT bomb which can wipe out all enemies caught in its blast.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000008m.jpg"
+  },
+  {
+    "title": "Moon Patrol",
+    "manufacturer": "Irem",
+    "year": "1982",
+    "score": "",
+    "description": "You take control of an ATV with two guns mounted. One shoots forward one shot at a time, the other shoots straight up three shots at a time. Blast the enemies and rocks that get in your way. Because of the low gravity, you can also jump over boulders, mines, and ditches. This is a timed event, so get to the checkpoints as fast as you can for bonus points. After reaching checkpoint Z, the game resets with increased difficulty.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000142m.jpg"
+  },
+  {
+    "title": "Pac-Man Plus",
+    "manufacturer": "Bally Midway",
+    "year": "1982",
+    "score": "",
+    "description": "Update to Pac-Man, that includes a green maze, new fruits that act as energizers, disappearing mazes, monsters that occasionally don't turn blue, and starts at a faster speed.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000157m.jpg"
+  },
+  {
+    "title": "Satan's Hollow",
+    "manufacturer": "Bally Midway",
+    "year": "1982",
+    "score": "",
+    "description": "Fight off various enemies while building a bridge. You are equipped with a shield that lasts 1.5 seconds and slowly recharges and your guns can be modified to shoot more than one shot at a time. Avoid the devil's flame breath. Complete the bridge and you earn the chance to fight against Satan himself. Your bonus for defeating him is 1000 points per stage you've cleared and a gun upgrade.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000189m.jpg"
+  },
+  {
+    "title": "Tapper",
+    "manufacturer": "Bally Midway",
+    "year": "1983",
+    "score": "",
+    "description": "Serve beer to thirsty patrons. Your goal is to serve them right out the door, but if they don't make it out the door, they will stop and drink their beer and then slide the glass back to you and want another one. You must be quick to serve all the patrons, catch the empty beer mugs, and not serve beer to a bar that doesn't have any customers.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000227m.jpg"
+  },
+  {
+    "title": "Zaxxon",
+    "manufacturer": "Sega",
+    "year": "1982",
+    "score": "",
+    "description": "Pilot your spaceship into enemy fortresses and take out as many targets as you can. Radar installations are worth the most points if you can take them out. Avoid electric fences, walls, and enemy fire as you make your way to the boss robot. The only way to destroy it is to destroy the guided missile he's carrying before he gets a chance to launch it. Controls are pitch up, pitch down, left, and right.",
+    "imageUrl": "http://www.aurcade.com/games/screens/00000272m.jpg"
+  }
+]
